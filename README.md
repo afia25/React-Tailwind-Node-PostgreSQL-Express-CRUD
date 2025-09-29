@@ -12,12 +12,12 @@ real-time editing, and deletion with confirmation message.
 <p align="center"><img src="./img/insert4.png" alt="App Screenshot" style="height:200px; width:auto;"></p>
 
 ### Update
-<p align="center"><img src="./img/update1.png" alt="App Screenshot" style="height:50px; width:auto;"></p>
+<p align="center"><img src="./img/update1.png" alt="App Screenshot" style="height:60px; width:auto;"></p>
 <p align="center"><img src="./img/update2.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
-<p align="center"><img src="./img/update3.png" alt="App Screenshot" style="height:70px; width:auto;"></p>
+<p align="center"><img src="./img/update3.png" alt="App Screenshot" style="height:60px; width:auto;"></p>
 
 ### Delete
-<p align="center"><img src="./img/del1.png" alt="App Screenshot" style="height:70px; width:auto;"></p>
+<p align="center"><img src="./img/del1.png" alt="App Screenshot" style="height:60px; width:auto;"></p>
 <p align="center"><img src="./img/del2.png" alt="App Screenshot" style="height:420px; width:auto;"></p>
 
 ### Search
