@@ -1,5 +1,5 @@
 ## React Tailwind Node PostgreSQL Express CRUD
-A CRUD-based web application that allows users to create, view, update, and delete records. It includes functionalities such as data entry forms, dynamic record display, 
+A CRUD-based web application that allows users to create, view (read), update, and delete records. It includes functionalities such as data entry forms, dynamic record display, 
 real-time editing, and deletion with confirmation message.
 
 ### Final Result of Project
